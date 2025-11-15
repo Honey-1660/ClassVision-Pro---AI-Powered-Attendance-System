@@ -1,0 +1,24 @@
+{
+    "Mathematics": {
+        "time": "10:00",
+        "days": [
+            "Monday",
+            "Wednesday",
+            "Friday"
+        ]
+    },
+    "Computer Science": {
+        "time": "14:00",
+        "days": [
+            "Tuesday",
+            "Thursday"
+        ]
+    },
+    "history": {
+        "time": "22:09",
+        "days": [
+            "Monday",
+            "Tuesday"
+        ]
+    }
+}
