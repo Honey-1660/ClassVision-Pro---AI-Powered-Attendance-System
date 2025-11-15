@@ -42,14 +42,23 @@ python class_vision.py
  ## How It Works
  
 Register Students - Capture 5 face images per student
+
 Train Model - Build recognition model from collected images
+
 Add Classes - Define class schedules
+
 Mark Attendance - System scans and marks attendance automatically
+
 Requirements
+
 Webcam/Camera device
+
 Python 3.x
+
 Windows/Linux/Mac
-License
+
+ ## License
+
 Open Source
 
 Author
