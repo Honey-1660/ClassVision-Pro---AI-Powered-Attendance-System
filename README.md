@@ -33,11 +33,17 @@ python class_vision.py
 
 ## project strecture
 ├── class_vision.py       # Main application
+
 ├── dataset/              # Student facial images
+
 ├── attendance/           # Attendance records (CSV)
+
 ├── trainer/              # Trained model & labels
+
 ├── schedule.json         # Class schedule configuration
+
 └── README.md
+
 
  ## How It Works
  
