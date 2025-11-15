@@ -39,7 +39,8 @@ python class_vision.py
 ├── schedule.json         # Class schedule configuration
 └── README.md
 
-How It Works
+ ## How It Works
+ 
 Register Students - Capture 5 face images per student
 Train Model - Build recognition model from collected images
 Add Classes - Define class schedules
